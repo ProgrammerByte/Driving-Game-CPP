@@ -1,0 +1,13 @@
+﻿  Track.cpp
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(17,53): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\Debug\Template.exe

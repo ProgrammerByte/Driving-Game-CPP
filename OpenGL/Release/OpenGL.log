@@ -1,0 +1,36 @@
+﻿  Car.cpp
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Car.cpp(18,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Car.cpp(68,13): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Car.cpp(81,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Car.cpp(82,44): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Car.cpp(88,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Car.cpp(89,43): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Application.cpp
+  Track.cpp
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(17,53): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\src\Track.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  207 of 308 functions (67.2%) were compiled, the rest were copied from previous compilation.
+    68 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\Release\vc120.pdb'; linking object as if no debug info
+  OpenGL.vcxproj -> C:\Users\Thomas Popay\source\repos\AI Driving\OpenGL\Release\Template.exe
